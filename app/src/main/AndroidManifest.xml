@@ -10,22 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity
-            android:name=".FamilyMembersActivity"
-            android:label="Family Members"/>
-
-        <activity
-            android:name=".PhrasesActivity"
-            android:label="Phrases"/>
-
-        <activity
-            android:name=".ColorsActivity"
-            android:label="Colors"/>
-
-        <activity
-            android:name=".NumbersActivity"
-            android:label="Numbers" />
-
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
